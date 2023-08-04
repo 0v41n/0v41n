@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Welcome to my GitHub profile!</h1>
 
-Hey! My name's Yvain, I'm 17 and I'm passionate about computers, maths and physics. I love reverse engineering, algorithms and cryptography. I do my best to progress and learn new things.
+Hey! My name's Yvain, I'm 17 and I'm passionate about computers, maths and physics. I love reverse engineering, algorithms and cryptography. I do my best to progress and learn new things. I'm currently working on a [JSConfuser](https://js-confuser.com) deobfuscator to assist with malware analysis.
 
 ##
 <p align="center">
