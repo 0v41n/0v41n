@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="mypfp.png" alt="Yvain" width="125">
+  <img src="0v41n.png" alt="Yvain" width="125">
 </p>
 <h1 align="center">Welcome to my GitHub profile!</h1>
 
