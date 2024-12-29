@@ -2,24 +2,40 @@
   <img src="0v41n.png" alt="Yvain's Avatar" width="125">
 </p>
 
-<h1 align="center">Welcome to My GitHub Profile!</h1>
+<h1 align="center">Welcome to My GitHub Profile 🐾</h1>
 
 <p align="center">
-  Hello! I'm Yvain, an 18-year-old passionate about computer science and mathematics. I have a keen interest in reverse engineering, cryptography, and algorithmic challenges. My goal is to continuously improve, learn new technologies, and expand my skillset.
+  Hello! I'm <b>Yvain</b>, an 18-year-old passionate about computer science and mathematics. I have a keen interest in <b>reverse engineering</b>, <b>cryptography</b>, and <b>algorithmic challenges</b>. My goal is to continuously improve, learn new technologies, and expand my skillset.
 </p>
+
+<details>
+  <summary>click here :3</summary>
+  <center>
+    <h3>its mee 🤓</h3>
+  </center>
+  <p align="center">
+    <img src="https://media1.tenor.com/m/hi7r-GJWZIcAAAAd/luna-crunchycat.gif" alt="༼ つ ◕_◕ ༽つ">
+  </p>
+
+</details>
 
 ---
 
 ### About Me
 
-- 💻 Currently pursuing a Bachelor's in Computer Science (BUT Informatique) at IUT Montpellier, in my first year.
-- 🛠 Proficient in a variety of languages including JavaScript, Rust, Python, C, and Java. My experience in reverse engineering has allowed me to become comfortable with multiple languages and paradigms, adapting to the tools best suited for the task at hand.
-- 🔍 Passionate about cybersecurity, reverse engineering, and understanding the inner workings of software to uncover hidden mechanics and vulnerabilities.
+- 💻 Currently pursuing a Bachelor's in Computer Science (**BUT Informatique**) at IUT Montpellier, in my first year.
+
+- 🛠 Proficiency in several languages, including **JavaScript**, **Python** and **Java**.
+
+- 🔍 Passionate about **cybersecurity**, **reverse engineering**, **cryptography**
+
 - 🎯 Committed to mastering algorithms and cryptography for practical applications.
+
+- 🎂 my birthday is december 31 ༼ つ ◕_◕ ༽つ
 
 ---
 
-### Featured Projects
+### Projects
 
 - [**JSConfuser-String-Decryptor**](https://github.com/0v41n/JSConfuser-String-Decryptor) - A tool to statically decrypt strings from JSConfuser-obfuscated programs.  
   ![JavaScript](https://img.shields.io/badge/language-JavaScript-blue)
@@ -51,48 +67,10 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=0v41n&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
----
-
-### Technologies & Tools
-
-#### **Languages:**
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=0374b3"/>
-  <img src="https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=0374b3"/>
-  <img src="https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=0374b3"/>
-  <img src="https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=0374b3"/>
-  <img src="https://img.shields.io/badge/Code-C%2FC++-informational?style=flat&logo=c&logoColor=white&color=0374b3"/>
-  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=0374b3"/>
-  <img src="https://img.shields.io/badge/Code-HTML5/CSS3-informational?style=flat&logo=html5&logoColor=white&color=0374b3"/>
-  <img src="https://img.shields.io/badge/Scripting-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=0374b3"/>
-  <img src="https://img.shields.io/badge/Code-Arduino-informational?style=flat&logo=arduino&logoColor=white&color=0374b3"/>
+
+  ![moe counter](https://moe-counter.glitch.me/get/@0v41n?theme=asoul&padding=4&darkmode=0)  
+  <i>Profile views count!</i>
 </p>
 
-#### **Reverse Engineering Tools:**
-<p align="center">
-  <img src="https://img.shields.io/badge/Tool-IDA%20Pro-informational?style=flat&logo=ida&logoColor=white&color=0374b3"/>
-  <img src="https://img.shields.io/badge/Tool-Ghidra-informational?style=flat&logo=ghidra&logoColor=white&color=0374b3"/>
-  <img src="https://img.shields.io/badge/Tool-Malcat-informational?style=flat&logo=malcat&logoColor=white&color=0374b3"/>
-  <img src="https://img.shields.io/badge/Tool-dnSpy-informational?style=flat&logo=dnspy&logoColor=white&color=0374b3"/>
-  <img src="https://img.shields.io/badge/Tool-x64dbg-informational?style=flat&logo=x64dbg&logoColor=white&color=0374b3"/>
-  <img src="https://img.shields.io/badge/Tool-OllyDbg-informational?style=flat&logo=ollydbg&logoColor=white&color=0374b3"/>
-  <img src="https://img.shields.io/badge/Tool-Radare2-informational?style=flat&logo=radare&logoColor=white&color=0374b3"/>
-</p>
-
-#### **Pentesting Tools:**
-<p align="center">
-  <img src="https://img.shields.io/badge/Tool-Burp%20Suite-informational?style=flat&logo=burp-suite&logoColor=white&color=0374b3"/>
-  <img src="https://img.shields.io/badge/Tool-OWASP%20ZAP-informational?style=flat&logo=owasp&logoColor=white&color=0374b3"/>
-  <img src="https://img.shields.io/badge/Tool-metasploit-informational?style=flat&logo=metasploit&logoColor=white&color=0374b3"/>
-  <img src="https://img.shields.io/badge/Tool-Wireshark-informational?style=flat&logo=wireshark&logoColor=white&color=0374b3"/>
-</p>
-
-#### Operating Systems & Distributions
-<p align="center">
-  <img src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=0374b3"/>
-  <img src="https://img.shields.io/badge/OS-Linux (Debian, Arch, CentOS)-informational?style=flat&logo=linux&logoColor=white&color=0374b3"/>
-  <img src="https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=0374b3"/>
-  <img src="https://img.shields.io/badge/OS-Android-informational?style=flat&logo=android&logoColor=white&color=0374b3"/>
-  <img src="https://img.shields.io/badge/OS-Other Distributions (Fedora, Arch, etc.)-informational?style=flat&logo=linux&logoColor=white&color=0374b3"/>
-</p>
 
