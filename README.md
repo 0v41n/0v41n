@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="0v41n.png" alt="Yvain's Avatar" width="125">
+  <img src="avatar.png" alt="Yvain's Avatar" width="125">
 </p>
 
 <h1 align="center">Welcome to My GitHub Profile 🐾</h1>
