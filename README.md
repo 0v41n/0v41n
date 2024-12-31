@@ -34,20 +34,22 @@
 - 🎂 my birthday is december 31 ༼ つ ◕_◕ ༽つ
 
 ---
+<details>
+  <summary>Project</summary>
 
-### Projects
+  ### Projects
+  - [**JSConfuser-String-Decryptor**](https://github.com/0v41n/JSConfuser-String-Decryptor) - A tool to statically decrypt strings from JSConfuser-obfuscated programs.  
+    ![JavaScript](https://img.shields.io/badge/language-JavaScript-blue)
+    
+  - [**JSDefender-Deobfuscator**](https://github.com/0v41n/JSDefender-Deobfuscator) - A deobfuscator for JSDefender, built with ❤️.  
+    ![JavaScript](https://img.shields.io/badge/language-JavaScript-blue)
+    
+  - [**NSIS-Dumper**](https://github.com/0v41n/NSIS-Dumper) - A Rust project designed to statically dump NSIS installers for analysis.  
+    ![Rust](https://img.shields.io/badge/language-Rust-orange)
 
-- [**JSConfuser-String-Decryptor**](https://github.com/0v41n/JSConfuser-String-Decryptor) - A tool to statically decrypt strings from JSConfuser-obfuscated programs.  
-  ![JavaScript](https://img.shields.io/badge/language-JavaScript-blue)
-  
-- [**JSDefender-Deobfuscator**](https://github.com/0v41n/JSDefender-Deobfuscator) - A deobfuscator for JSDefender, built with ❤️.  
-  ![JavaScript](https://img.shields.io/badge/language-JavaScript-blue)
-  
-- [**NSIS-Dumper**](https://github.com/0v41n/NSIS-Dumper) - A Rust project designed to statically dump NSIS installers for analysis.  
-  ![Rust](https://img.shields.io/badge/language-Rust-orange)
-
-- [**Meow-Encoding**](https://github.com/0v41n/Meow-Encoding) - A fun library for encoding and decoding messages for cats.  
-  ![JavaScript](https://img.shields.io/badge/language-JavaScript-blue)
+  - [**Meow-Encoding**](https://github.com/0v41n/Meow-Encoding) - A fun library for encoding and decoding messages for cats.  
+    ![JavaScript](https://img.shields.io/badge/language-JavaScript-blue)
+</details>
 
 ---
 
@@ -59,18 +61,19 @@
 
 ---
 
-### My GitHub Stats
+<details>
+  <summary>My GitHub Stats</summary>
 
-![Yvain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=0v41n&show_icons=true&theme=dark&hide_rank=true)
+  ### My GitHub Stats
+  
+  ![Yvain's GitHub stats](https://github-readme-stats.vercel.app/api?username=0v41n&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0v41n&layout=compact&theme=dark)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=0v41n&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
-
-<p align="center">
+  <details>
+    <summary>Profile views count!</summary>
+    <p align="center">
 
   ![moe counter](https://moe-counter.glitch.me/get/@0v41n?theme=asoul&padding=4&darkmode=0)  
-  <i>Profile views count!</i>
-</p>
+    </p>
+  </details>
 
-
+</details>
