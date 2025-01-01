@@ -5,7 +5,7 @@
 <h1 align="center">Welcome to My GitHub Profile 🐾</h1>
 
 <p align="center">
-  Hello! I'm <b>Yvain</b>, an 18-year-old passionate about computer science and mathematics. I have a keen interest in <b>reverse engineering</b>, <b>cryptography</b>, and <b>algorithmic challenges</b>. My goal is to continuously improve, learn new technologies, and expand my skillset.
+  Hello! I'm <b>Yvain</b>, an 19-year-old passionate about computer science and mathematics. I have a keen interest in <b>reverse engineering</b>, <b>cryptography</b>, and <b>algorithmic challenges</b>. My goal is to continuously improve, learn new technologies, and expand my skillset.
 </p>
 
 <details>
@@ -65,15 +65,14 @@
   <summary>My GitHub Stats</summary>
 
   ### My GitHub Stats
-  
-  ![Yvain's GitHub stats](https://github-readme-stats.vercel.app/api?username=0v41n&show_icons=true&theme=dark)
 
-  <details>
-    <summary>Profile views count!</summary>
+  <div>
     <p align="center">
-
-  ![moe counter](https://moe-counter.glitch.me/get/@0v41n?theme=asoul&padding=4&darkmode=0)  
+      <img src="https://github-readme-stats.vercel.app/api?username=0v41n&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="0v41n's Stats" height="165">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=0v41n&theme=tokyonight&hide_border=true" alt="0v41n's Streak" height="165">
+      <p align="center">
+        <img src="https://count.getloli.com/@0v41n?theme=capoo-2&padding=4&darkmode=0" alt="0v41n's Counter" height="80">
+      </p>
     </p>
-  </details>
-
+  </div>
 </details>
