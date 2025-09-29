@@ -23,7 +23,7 @@
 
 ### About Me
 
-- 💻 Currently pursuing a Bachelor's in Computer Science (**BUT Informatique**) at IUT Montpellier, in my first year.
+- 💻 Currently pursuing a Bachelor's in Computer Science (**BUT Informatique**) at IUT Montpellier, in my second year.
 
 - 🛠 Proficiency in several languages, including **JavaScript**, **Python** and **Java**.
 
